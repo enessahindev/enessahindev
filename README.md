@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @enessahindev<br>👀 I’m interested in UI/UX design and Full-Stack Development<br>🌱 I’m currently learning ReactJS, C#, ASP.NET MVC, JavaScript<br>📤 My LinkedIn profile is https://linkedin.com/in/enessahin312<br>💻 My Personal Website is https://enessahin.dev/
+👋 Hi, I’m @enessahindev<br>👀 I’m interested in UI/UX design and Full-Stack Development<br>🌱 I’m currently learning Reactjs, React-Native, Typescript and Backend Development <br>📤 My LinkedIn profile is https://linkedin.com/in/enessahin312<br>💻 My Personal Website is https://enessahin.dev/
 
 
 ## 🌐 Socials:
